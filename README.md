@@ -4,9 +4,6 @@
 
 # Kevin McQuate
 
-LinkedIn:
-
-
 Projects:
 - [Lake Ice Map React App](https://lake-freeze.kevin-mcquate.net/){:target="_blank"}
 - [Lake Ice API](https://lake-freeze-api.kevin-mcquate.net/docs/){:target="_blank"}
