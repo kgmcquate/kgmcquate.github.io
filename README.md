@@ -1,3 +1,7 @@
+  <head>
+    <link rel="shortcut icon" type="image/x-icon" href="icons8-idea-94.png">
+</head>
+
 # Kevin McQuate
 
 LinkedIn:
