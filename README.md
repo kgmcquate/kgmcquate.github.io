@@ -1,5 +1,7 @@
 # Kevin McQuate
 
 Projects:
-    - [Nuclear Power Plant Data Science Project](nuclear-plants.html)
-    - [Solar Power Plant Data Science Project](solar-panel-data.html)
+- [Lake Ice Map React App](https://lake-freeze.kevin-mcquate.net/)
+    - [Lake Ice API](https://lake-freeze.kevin-mcquate.net/)
+- [Solar Power Plant Data Science Project](solar-panel-data.html)
+- [Nuclear Power Plant Data Science Project](nuclear-plants.html)
