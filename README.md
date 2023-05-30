@@ -3,9 +3,10 @@
 </head>
 
 # Kevin McQuate
-[GitHub](https://github.com/kgmcquate){:target="_blank"}
-[LinkedIn](https://www.linkedin.com/in/kevin-mcquate/){:target="_blank"}
-[Resume](resume.pdf){:target="_blank"}
+Links:
+- [GitHub](https://github.com/kgmcquate){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/kevin-mcquate/){:target="_blank"}
+- [Resume](resume.pdf){:target="_blank"}
 
 Projects:
 - [Lake Ice Map React App](https://lake-freeze.kevin-mcquate.net/){:target="_blank"}
