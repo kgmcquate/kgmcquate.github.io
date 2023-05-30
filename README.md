@@ -1,7 +1,3 @@
- <head>
-    <link rel="shortcut icon" type="image/x-icon" href="icons8-idea-94.png">
-</head>
-
 # Kevin McQuate
 Links:
 - [GitHub](https://github.com/kgmcquate){:target="_blank"}
