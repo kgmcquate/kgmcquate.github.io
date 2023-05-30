@@ -1,4 +1,3 @@
-# Kevin McQuate
 Links:
 - [GitHub](https://github.com/kgmcquate){:target="_blank"}
 - [LinkedIn](https://www.linkedin.com/in/kevin-mcquate/){:target="_blank"}
