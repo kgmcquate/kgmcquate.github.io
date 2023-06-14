@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Kevin McQuate
 ---
 
 # Links:
