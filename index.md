@@ -14,3 +14,6 @@ title: Kevin McQuate
 - [AWS Infrastructure with Terraform](https://github.com/kgmcquate/infra){:target="_blank"}
 - [Solar Power Plant Data Science Project](solar-panel-data.html){:target="_blank"}
 - [Nuclear Power Plant Data Science Project](nuclear-plants.html){:target="_blank"}
+
+# Grafana Reports:
+<iframe src="https://kgmcquate.grafana.net/d-solo/acb94a3c-e285-456a-aafe-e6673b96d9d8/lakes-map?orgId=1&from=1687009643562&to=1687031243562&panelId=1" width="450" height="200" frameborder="0"></iframe>
