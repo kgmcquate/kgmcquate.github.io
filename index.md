@@ -15,5 +15,5 @@ title: Kevin McQuate
 - [Solar Power Plant Data Science Project](solar-panel-data.html){:target="_blank"}
 - [Nuclear Power Plant Data Science Project](nuclear-plants.html){:target="_blank"}
 
-# Grafana Reports:
-[Lakes Map](https://kgmcquate.grafana.net/d/acb94a3c-e285-456a-aafe-e6673b96d9d8/lakes-map?orgId=1&from=1687010286724&to=1687031886724&viewPanel=1){:target="_blank"}
+# Reports:
+- [Lakes Report](https://lake-freeze.kevin-mcquate.net/reporting/lakes_report.html)
