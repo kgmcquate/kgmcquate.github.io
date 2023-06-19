@@ -16,4 +16,4 @@ title: Kevin McQuate
 - [Nuclear Power Plant Data Science Project](nuclear-plants.html){:target="_blank"}
 
 # Reports:
-- [Lakes Report](https://lake-freeze.kevin-mcquate.net/reporting/lakes_report.html)
+- [Lakes Report](https://kgmcquate.grafana.net/dashboard/snapshot/W5F3VdW236xQCktFRWRrtXhr8YA6mKsH?orgId=0)
