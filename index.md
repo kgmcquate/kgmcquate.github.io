@@ -17,4 +17,3 @@ title: Kevin McQuate
 
 # Reports:
 - [Lakes Report](https://kgmcquate.grafana.net/dashboard/snapshot/zRfAZ9ABBtnEFE8qMGDdll9eAdR9UAjg){:target="_blank"}
-- 
