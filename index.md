@@ -16,4 +16,8 @@ title: Kevin McQuate
 - [Nuclear Power Plant Data Science Project](nuclear-plants.html){:target="_blank"}
 
 # Reports:
-- [Lakes Report](https://kgmcquate.grafana.net/dashboard/snapshot/zRfAZ9ABBtnEFE8qMGDdll9eAdR9UAjg){:target="_blank"}
+- ## Grafana:
+  - [Lakes Report](https://kgmcquate.grafana.net/dashboard/snapshot/zRfAZ9ABBtnEFE8qMGDdll9eAdR9UAjg){:target="_blank"}
+- ## Apache Superset
+  - [Preset.io Portfolio](https://manage.app.preset.io/app/)
+    - Use username "Public User" and password "Publicuser1"
