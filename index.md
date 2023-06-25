@@ -17,5 +17,7 @@ title: Kevin McQuate
 
 # Reports:
 - Grafana:
-  - [Lakes Report](https://kgmcquate.grafana.net/dashboard/snapshot/zRfAZ9ABBtnEFE8qMGDdll9eAdR9UAjg){:target="_blank"}
+  - [Data Quality Issues Report](https://kgmcquate.grafana.net/dashboard/snapshot/cli4LfbkHUx5EWwcaOaxBuDfFFkIljmq){:target="_blank"}
+  - [Lakes Report](https://kgmcquate.grafana.net/dashboard/snapshot/LtzU5kM23zEUySTqWYEb4WQUlAzB1fyO){:target="_blank"}
+  - [Weather Report]()
 
