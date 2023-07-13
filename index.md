@@ -6,6 +6,7 @@ title: Kevin McQuate
 - [GitHub](https://github.com/kgmcquate){:target="_blank"}
 - [LinkedIn](https://www.linkedin.com/in/kevin-mcquate/){:target="_blank"}
 - [Resume](Resume.pdf){:target="_blank"}
+- [Cover Letter](Cover_Letter.pdf){:target="_blank"}
 
 # Projects:
 - [Weather ETL for Lake Ice Web App](https://github.com/kgmcquate/weather-etl){:target="_blank"}
